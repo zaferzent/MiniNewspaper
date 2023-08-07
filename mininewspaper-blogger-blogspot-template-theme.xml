@@ -1728,7 +1728,7 @@ dcountup.prototype.start=function(){
  <li><a href=''><span data-hover='Subscribe'>Contact</span></a></li>
     
   </ul>
-  
+  Theme by <a href="https://github.com/zaferzent">Zafer Zent</a>
   <div class='copyright'>&amp;copy; <a href=''>MiniNews</a> 2023</div>
   
 </div>
